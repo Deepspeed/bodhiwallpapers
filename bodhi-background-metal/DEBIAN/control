@@ -1,0 +1,11 @@
+Package: bodhi-background-metal
+Version: 0.01
+Architecture: all
+Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
+Depends:
+Section: unknown
+Priority: optional
+Homepage: http://bodhilinux.com
+Description: Bodhi background by Vaidotas
+  A custom Bodhi wallpaper
+  Thanks, Vaidotas!
