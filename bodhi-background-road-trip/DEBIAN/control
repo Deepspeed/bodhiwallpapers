@@ -1,8 +1,8 @@
 Package: bodhi-background-road-trip
-Version: 0.02
+Version: 0.03
 Architecture: all
 Maintainer: Doug Yanez <Deepspeed@bodhilinux.com>
-Depends: enlightenment
+Depends:
 Section: unknown
 Priority: optional
 Homepage: http://bodhilinux.com
